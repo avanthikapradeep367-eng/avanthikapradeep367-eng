@@ -54,5 +54,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avanthikapradeep367-eng&show_icons=true&locale=en&layout=compact&theme=dark" alt="avanthikapradeep367-eng Top Languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=avanthikapradeep367-eng&show_icons=true&locale=en&theme=dark" alt="avanthikapradeep367-eng GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avanthikapradeep367-eng&theme=dark&date=2025-10-13" alt="GitHub Streak by DenverCoder1" />
+<img src="https://streak-stats.demolab.com?user=avanthikapradeep367-eng&theme=dark" alt="Malusree-2001 GitHub Streak" />
 </div>
