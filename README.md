@@ -25,10 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/AvanthikaP81266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anagha_pradeep" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/avanthika-pradeep-90252b310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anagha_pradeep" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/avanthika-pradeep-90252b310/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Avanthika Pradeep on LinkedIn" height="30" width="40" /></a>
+    <a href="https://x.com/AvanthikaP81266" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Avanthika Pradeep on X/Twitter" height="30" width="40" /></a>
 </p>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
