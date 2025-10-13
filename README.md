@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I am Avanthika Pradeep here!!</h1>
+<h1 align="center">Hello 👋, I am Avanthika Pradeep</h1>
 <h3 align="center">I'm an ambitious 2nd-year B.Tech student with a passion for transforming raw data into insights.</h3>
 
 
