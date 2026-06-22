@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Avanthika Pradeep</h1>
-<h3 align="center">I'm an ambitious 2nd-year B.Tech student with a passion for transforming raw data into insights.</h3>
+<h3 align="center">I'm an ambitious 3rd-year B.Tech student with a passion for transforming raw data into insights.</h3>
 
 
 <img src="assets/Adobe Express - file.png" min-width="300px" max-width="300px" width="350px" align="right"> 
